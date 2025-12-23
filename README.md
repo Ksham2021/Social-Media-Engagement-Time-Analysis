@@ -1,7 +1,7 @@
 # Social-Media-Engagement-Time-Analysis
-#Analysis of social media post engagement based on posting time using Python and Gradio UI.
+Analysis of social media post engagement based on posting time using Python and Gradio UI.
 Social Media Engagement Time Analysis
-Project Overview
+## Project Overview:
 This project analyzes social media post engagement based on posting time to identify the optimal time for posting content. Engagement is calculated using likes, comments, and shares. The analysis is visualized through graphs and an interactive UI built using Gradio in Google Colab.
 
 ## Objectives:
