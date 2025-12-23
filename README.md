@@ -63,5 +63,5 @@ This project demonstrates how posting time impacts social media engagement. Usin
 Kumari Shambhavi
 (Individual Minor Project – AI/ML)
 
-# #License:
+## License:
 This project is created for academic purposes only.
